@@ -19,7 +19,7 @@ This project analyzes sales data to identify trends, top-performing products, an
 ## Visualizations
 
 ### 1. Top Products by Revenue
-![Chart1](chart1_top_products.png)
+![Chart1]([chart1_top_products.png](https://github.com/ramyakeerthijiguru01-code/sales-analytics-python-project/blob/main/output/chart4_category_distribution.png))
 
 ### 2. Monthly Sales Trend
 ![Chart2](chart2_monthly_trend.png)
