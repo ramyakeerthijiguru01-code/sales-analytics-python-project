@@ -1,7 +1,7 @@
 # Sales Analytics Project (Python)
 
 ## Overview
-This project performs end-to-end sales data analysis using Python.
+This project analyzes sales data to identify trends, top-performing products, and business insights.
 
 
 ## Key Steps
